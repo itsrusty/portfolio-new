@@ -17,9 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Aplicación de RUTAS en tiempo real"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description=""
         link="/posts/sixth-post/"
         img={{
           src: '../../public/assets/expressjs.svg',
@@ -38,9 +36,7 @@ const ProjectList = () => (
       />
       <Project
         name="Learnflow AI"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description=""
         link="/"
         img={{ src: '../../public/assets/svelte.svg', alt: 'Project Fire' }}
         category={
@@ -55,9 +51,7 @@ const ProjectList = () => (
       />
       <Project
         name="Doctor System"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description=""
         link="/"
         img={{ src: '../../public/assets/nestjs.svg', alt: 'Project Maps' }}
         category={
