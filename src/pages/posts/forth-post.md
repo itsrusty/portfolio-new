@@ -3,7 +3,7 @@ layout: "@/templates/BasePost.astro"
 title: Doctor System
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
 pubDate: 2023-06-04T00:00:00Z
-imgSrc: "../../../public/assets/images/doctor-system/dashboard.jpg"
+# imgSrc: "../../../public/assets/images/doctor-system/ft2.jpg"
 imgAlt: "Image post 3"
 ---
 

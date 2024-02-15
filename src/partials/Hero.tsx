@@ -16,12 +16,12 @@ const Hero = () => (
       description={
         <>
           Soy <a className="text-cyan-400 hover:underline">Backend Developer</a>{' '}
-          Soy un Backend Developer dedicado a la creación de sistemas robustos y
-          escalables que impulsan aplicaciones web y servicios en línea. Mi
+          con 4 años de experiencia, dedicado a la creación de sistemas robustos
+          y escalables que impulsan aplicaciones web y servicios en línea. Mi
           experiencia abarca el diseño e implementación de arquitecturas backend
           eficientes utilizando tecnologías como NodeJS con NestJS y typescript,
           bases de datos relacionales y no relacionales como PostgreSQL y
-          MongoDB momento.
+          MongoDB
         </>
       }
       avatar={
